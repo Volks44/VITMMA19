@@ -10,5 +10,7 @@ Project Description: The goal of this project is to compare and demonstrate the 
 
 Files:
 -Milestone_1.ipynb (Data Acquisition & Data Preparation)
+
 -Milestone_2.ipynb (Own Model)
+
 -Pretrain_ResNet50.ipynb (Pretrained Network with random initialized weights).
